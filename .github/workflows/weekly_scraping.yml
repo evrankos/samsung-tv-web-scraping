@@ -1,0 +1,60 @@
+name: Samsung 7-Day Automated Scraping Pipeline
+
+on:
+  schedule:
+    # Runs every 7 days (Every Sunday at 00:00 UTC)
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+    # Allows manual one-click trigger from GitHub Actions tab
+    inputs:
+      max_cards:
+        description: 'Max cards per category (leave empty for full scrape)'
+        required: false
+        default: ''
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Verify Headless Google Chrome
+        run: |
+          google-chrome --version || which google-chrome
+
+      - name: Run Samsung Scraping & Price Alert Pipeline
+        run: |
+          if [ -n "${{ github.event.inputs.max_cards }}" ]; then
+            python -m src.pipeline --scrape-all --max-cards ${{ github.event.inputs.max_cards }} --alerts
+          else
+            python -m src.pipeline --scrape-all --alerts
+          fi
+
+      - name: Commit and Push Updated Data & Database
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ scraped_data/ alerts/
+          if git diff --staged --quiet; then
+            echo "No changes detected across catalogs or database."
+          else
+            git commit -m "Auto-update: Weekly Samsung catalog scrape & price tracker [skip ci]"
+            git push origin main
+          fi

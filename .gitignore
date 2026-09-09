@@ -1,2 +1,24 @@
 /DATA6300_Assignment2.docx
 /DATA6300_Assignment2.pdf
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+
+# OS specific files
+Thumbs.db
+Desktop.ini
+.DS_Store

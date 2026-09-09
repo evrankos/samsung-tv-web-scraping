@@ -1,0 +1,54 @@
+======================================================================
+SAMSUNG PRODUCT PRICE INTELLIGENCE REPORT - 2026-09-08 19:32:36
+======================================================================
+
+1. PRICE DROPS DETECTED: 1
+--------------------------------------------------
+ • [Smartphones] Galaxy S26 (GALAXY-S26)
+   Dropped from $1,809.99 -> $1,529.99 (-$280.00 | -15.5%)
+
+2. ALL-TIME LOW PRICES: 38
+--------------------------------------------------
+ • [Smartphones] Galaxy A17 5G is at an ALL-TIME LOW: $339.99
+ • [Smartphones] Galaxy A37 5G is at an ALL-TIME LOW: $449.99
+ • [Smartphones] Galaxy A57 5G is at an ALL-TIME LOW: $549.99
+ • [TVs] The Frame TV with white bezel and HW-S801B Soundbar is at an ALL-TIME LOW: $3,249.97
+ • [TVs] OLED 4K Smart TV S95C with HW-S800B Soundbar is at an ALL-TIME LOW: $4,099.98
+ • [TVs] 75" Neo QLED 4K QN90C TV with HW-Q990C Soundbar is at an ALL-TIME LOW: $4,599.98
+ • [Smartphones] Galaxy Z Flip8 is at an ALL-TIME LOW: $1,829.99
+ • [Smartphones] Galaxy Z Fold8 is at an ALL-TIME LOW: $2,679.99
+ • [Smartphones] Galaxy S26 is at an ALL-TIME LOW: $1,529.99
+ • [TVs] 32” The Frame Art Mode LS03C is at an ALL-TIME LOW: $699.99
+ • [TVs] 43" QLED 4K Q60C is at an ALL-TIME LOW: $599.99
+ • [TVs] 55" Neo QLED 4K QN85C is at an ALL-TIME LOW: $1,399.99
+ • [TVs] 55" Neo QLED 4K QN90C is at an ALL-TIME LOW: $1,799.99
+ • [TVs] 55" Neo QLED 4K QN92C is at an ALL-TIME LOW: $1,899.99
+ • [TVs] 55" OLED 4K Smart TV S95C is at an ALL-TIME LOW: $2,499.99
+ • [TVs] 65" QLED 4K Q80C is at an ALL-TIME LOW: $1,399.99
+ • [TVs] 65" QLED 4K Q82C is at an ALL-TIME LOW: $1,499.99
+ • [TVs] 65" Neo QLED 4K QN95C is at an ALL-TIME LOW: $3,899.99
+ • [TVs] 70" QLED 4K QE1 is at an ALL-TIME LOW: $1,199.99
+ • [TVs] 75” The Frame Art Mode LS03B is at an ALL-TIME LOW: $3,499.99
+ • [Smartphones] Galaxy S25 FE is at an ALL-TIME LOW: $919.99
+ • [Smartphones] Galaxy S26 FE is at an ALL-TIME LOW: $1,049.99
+ • [Smartphones] Galaxy S25 Edge is at an ALL-TIME LOW: $1,858.99
+ • [Smartphones] Galaxy A17 5G is at an ALL-TIME LOW: $339.99
+ • [Smartphones] Galaxy A37 5G is at an ALL-TIME LOW: $449.99
+ • [Smartphones] Galaxy A57 5G is at an ALL-TIME LOW: $549.99
+ • [Smartphones] Galaxy S25 FE is at an ALL-TIME LOW: $919.99
+ • [Smartphones] Galaxy S26 FE is at an ALL-TIME LOW: $1,049.99
+ • [Tablets] Galaxy Tab S11 is at an ALL-TIME LOW: $1,249.99
+ • [Tablets] Galaxy Tab S10+ (12.4", Wi-Fi) is at an ALL-TIME LOW: $1,499.99
+ • [Tablets] Galaxy Tab S11 Ultra is at an ALL-TIME LOW: $1,699.99
+ • [TVs] The Premiere LSP7T is at an ALL-TIME LOW: $3,999.99
+ • [TVs] 32" HD Smart TV M4500B is at an ALL-TIME LOW: $229.99
+ • [TVs] 32" Full HD Smart TV N5300 is at an ALL-TIME LOW: $299.99
+ • [TVs] 40" Full HD Smart TV N5200 is at an ALL-TIME LOW: $349.99
+ • [TVs] 43" Crystal UHD 4K Smart TV CU7000 is at an ALL-TIME LOW: $429.99
+ • [TVs] 43" Crystal UHD 4K Smart TV CU8000 is at an ALL-TIME LOW: $649.99
+ • [TVs] 43” Crystal UHD 4K Smart TV Powered by Tizen™ TU690T is at an ALL-TIME LOW: $499.99
+
+3. STEEP DISCOUNTS (>= 15.0% OFF): 0
+--------------------------------------------------
+
+======================================================================
